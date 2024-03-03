@@ -4,7 +4,7 @@ Welcome to the Currency Converter website! This web application allows users to 
 
 ## Features
 
-- **Real-time Exchange Rates:** The application uses a powerful API to fetch the latest exchange rates, providing users with accurate and current conversion values.(Use this website to create API for free https://app.exchangerate-api.com/)
+- **Real-time Exchange Rates:** The application uses a powerful API to fetch the latest exchange rates, providing users with accurate and current conversion values.(Use your own API Key to create new API key check below link)
 
 - **User-Friendly Interface:** The intuitive and user-friendly design makes it easy for users to navigate and perform currency conversions seamlessly.
 
